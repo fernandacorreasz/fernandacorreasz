@@ -7,4 +7,4 @@
 </div>
 
  ##
-![Stats](https://github-readme-stats.vercel.app/api?fernandacorreasz&include_all_commits=true)
+![Stats](https://github-readme-stats.vercel.app/api?username=fernandacorreasz&include_all_commits=true)
