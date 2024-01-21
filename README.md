@@ -5,4 +5,6 @@
   <img width="47%" height="180em"  width="500" src="https://github-readme-stats.vercel.app/api/top-langs/?username=fernandacorreasz&layout=compact&langs_count=7&theme=dark"/>
 </div>
 
- 
+ ##
+ ![Stats](https://github-readme-stats.vercel.app/api?username=seu-username&include_all_commits=true)
+
